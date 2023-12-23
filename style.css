@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.icon{
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    
+    height: 64px;
+    width: 69px;
+    margin: 4vw 19vh;
+    /* samsung galaxy  */
+    font-size: 40px;
+}
+.text b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+
+}
+.image b{
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 136px;
+}
+.retry{
+    color: white;
+    background-color: rgb(19, 108, 218);
+    height: 50px;
+    width: 93px;
+    border-radius: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+}
+.test_case{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 23px;
+}
+.payment_status img{
+    height:45px;
+    width: 49px;
+}
+.payment_status{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 13px;
+    margin-top: 12px;
+}
+.date_time{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 12px;
+}
+.maindiv img{
+    height:40px;
+    width: 40px;
+    display: flex;
+    border-radius: 1px solid black;
+    justify-content: center;
+    align-items: center;
+}
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 11px;
+    margin-top: 32px;
+    padding: 9px;
+    /* border-bottom: none; */
+    /* border-bottom-left-radius: none;
+    border-bottom-right-radius: none; */
+}
+.info2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 11px;
+    margin-top: 32px;
+    padding: 9px;
+    /* border-top: none; */
+    /* border-top-left-radius: none; */
+    /* border-top-right-radius: none; */
+
+}
+.last_image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#untitled{
+height: 20px;
+width: 20px;
+}
+#gpay{
+    height: 20px;
+    width: 20px;
+    }
